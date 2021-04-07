@@ -16,7 +16,7 @@ export async function sortBy_change(event) {
 	}
 }
 
-/* dynamicDataset - I has to be your dataset name
+/* dynamicDataset - It has to be your dataset name.
 
 let defaultSort = false;
 
